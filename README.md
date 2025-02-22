@@ -5,8 +5,8 @@
 ## Used technologies and tools
 
 - Swift
-- URL Session
-- JSON Decoder
+- URLSession
+- JSONDecoder
 - UIKit
 - MVC design pattern
 - [CoinAPI](https://www.coinapi.io/)
