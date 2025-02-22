@@ -5,6 +5,7 @@
 ## Used technologies and tools
 
 - Swift
+- URL Session
 - JSON Decoder
 - UIKit
 - MVC design pattern
